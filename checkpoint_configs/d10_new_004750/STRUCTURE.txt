@@ -1,0 +1,11 @@
+# Full file list of runs/d10_new/checkpoints/004750/pretrained_model (bytes). model.safetensors and tokenizer/ are not included
+2494	./config.json
+906712552	./model.safetensors
+660	./policy_postprocessor.json
+8528	./policy_postprocessor_step_0_unnormalizer_processor.safetensors
+1932	./policy_preprocessor.json
+8544	./policy_preprocessor_step_5_normalizer_processor.safetensors
+403	./tokenizer/chat_template.jinja
+838	./tokenizer/tokenizer_config.json
+3548738	./tokenizer/tokenizer.json
+12435	./train_config.json

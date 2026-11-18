@@ -1,0 +1,1454 @@
+[
+ {
+  "filename": "episode_0.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_161544_sm",
+  "view": "SEOK3/pick_place/20260912_161544"
+ },
+ {
+  "filename": "episode_1.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_161750",
+  "view": "SEOK3/pick_place/20260912_161750"
+ },
+ {
+  "filename": "episode_2.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_161831",
+  "view": "SEOK3/pick_place/20260912_161831"
+ },
+ {
+  "filename": "episode_3.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_161905",
+  "view": "SEOK3/pick_place/20260912_161905"
+ },
+ {
+  "filename": "episode_4.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_161936",
+  "view": "SEOK3/pick_place/20260912_161936"
+ },
+ {
+  "filename": "episode_5.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_162006",
+  "view": "SEOK3/pick_place/20260912_162006"
+ },
+ {
+  "filename": "episode_6.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_162036",
+  "view": "SEOK3/pick_place/20260912_162036"
+ },
+ {
+  "filename": "episode_7.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_162106",
+  "view": "SEOK3/pick_place/20260912_162106"
+ },
+ {
+  "filename": "episode_8.hdf5",
+  "language_raw": "place the small tape on the left",
+  "src": "pick_place/20260912_162136",
+  "view": "SEOK3/pick_place/20260912_162136"
+ },
+ {
+  "filename": "episode_9.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162208",
+  "view": "SEOK3/pick_place/20260912_162208"
+ },
+ {
+  "filename": "episode_10.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162241",
+  "view": "SEOK3/pick_place/20260912_162241"
+ },
+ {
+  "filename": "episode_11.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162318",
+  "view": "SEOK3/pick_place/20260912_162318"
+ },
+ {
+  "filename": "episode_12.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162351",
+  "view": "SEOK3/pick_place/20260912_162351"
+ },
+ {
+  "filename": "episode_13.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162422",
+  "view": "SEOK3/pick_place/20260912_162422"
+ },
+ {
+  "filename": "episode_14.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162453",
+  "view": "SEOK3/pick_place/20260912_162453"
+ },
+ {
+  "filename": "episode_15.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162555",
+  "view": "SEOK3/pick_place/20260912_162555"
+ },
+ {
+  "filename": "episode_16.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162627",
+  "view": "SEOK3/pick_place/20260912_162627"
+ },
+ {
+  "filename": "episode_17.hdf5",
+  "language_raw": "place the small tape on the right",
+  "src": "pick_place/20260912_162701",
+  "view": "SEOK3/pick_place/20260912_162701"
+ },
+ {
+  "filename": "episode_18.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_162737",
+  "view": "SEOK3/pick_place/20260912_162737"
+ },
+ {
+  "filename": "episode_19.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_162815",
+  "view": "SEOK3/pick_place/20260912_162815"
+ },
+ {
+  "filename": "episode_20.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_162849",
+  "view": "SEOK3/pick_place/20260912_162849"
+ },
+ {
+  "filename": "episode_21.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_162923",
+  "view": "SEOK3/pick_place/20260912_162923"
+ },
+ {
+  "filename": "episode_22.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_162956",
+  "view": "SEOK3/pick_place/20260912_162956"
+ },
+ {
+  "filename": "episode_23.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_163025",
+  "view": "SEOK3/pick_place/20260912_163025"
+ },
+ {
+  "filename": "episode_24.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_163057",
+  "view": "SEOK3/pick_place/20260912_163057"
+ },
+ {
+  "filename": "episode_25.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_163129",
+  "view": "SEOK3/pick_place/20260912_163129"
+ },
+ {
+  "filename": "episode_26.hdf5",
+  "language_raw": "place the small tape in front of me",
+  "src": "pick_place/20260912_163159_sm",
+  "view": "SEOK3/pick_place/20260912_163159"
+ },
+ {
+  "filename": "episode_27.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163425",
+  "view": "SEOK3/pick_place/20260912_163425"
+ },
+ {
+  "filename": "episode_28.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163459",
+  "view": "SEOK3/pick_place/20260912_163459"
+ },
+ {
+  "filename": "episode_29.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163538",
+  "view": "SEOK3/pick_place/20260912_163538"
+ },
+ {
+  "filename": "episode_30.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163628",
+  "view": "SEOK3/pick_place/20260912_163628"
+ },
+ {
+  "filename": "episode_31.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163657",
+  "view": "SEOK3/pick_place/20260912_163657"
+ },
+ {
+  "filename": "episode_32.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163729",
+  "view": "SEOK3/pick_place/20260912_163729"
+ },
+ {
+  "filename": "episode_33.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163811",
+  "view": "SEOK3/pick_place/20260912_163811"
+ },
+ {
+  "filename": "episode_34.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163842",
+  "view": "SEOK3/pick_place/20260912_163842"
+ },
+ {
+  "filename": "episode_35.hdf5",
+  "language_raw": "place the shot glass on the left",
+  "src": "pick_place/20260912_163914",
+  "view": "SEOK3/pick_place/20260912_163914"
+ },
+ {
+  "filename": "episode_36.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_163949",
+  "view": "SEOK3/pick_place/20260912_163949"
+ },
+ {
+  "filename": "episode_37.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164024",
+  "view": "SEOK3/pick_place/20260912_164024"
+ },
+ {
+  "filename": "episode_38.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164058",
+  "view": "SEOK3/pick_place/20260912_164058"
+ },
+ {
+  "filename": "episode_39.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164210",
+  "view": "SEOK3/pick_place/20260912_164210"
+ },
+ {
+  "filename": "episode_40.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164247",
+  "view": "SEOK3/pick_place/20260912_164247"
+ },
+ {
+  "filename": "episode_41.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164317",
+  "view": "SEOK3/pick_place/20260912_164317"
+ },
+ {
+  "filename": "episode_42.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164422",
+  "view": "SEOK3/pick_place/20260912_164422"
+ },
+ {
+  "filename": "episode_43.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164454",
+  "view": "SEOK3/pick_place/20260912_164454"
+ },
+ {
+  "filename": "episode_44.hdf5",
+  "language_raw": "place the shot glass on the right",
+  "src": "pick_place/20260912_164531",
+  "view": "SEOK3/pick_place/20260912_164531"
+ },
+ {
+  "filename": "episode_45.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164609",
+  "view": "SEOK3/pick_place/20260912_164609"
+ },
+ {
+  "filename": "episode_46.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164643",
+  "view": "SEOK3/pick_place/20260912_164643"
+ },
+ {
+  "filename": "episode_47.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164720",
+  "view": "SEOK3/pick_place/20260912_164720"
+ },
+ {
+  "filename": "episode_48.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164802",
+  "view": "SEOK3/pick_place/20260912_164802"
+ },
+ {
+  "filename": "episode_49.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164837",
+  "view": "SEOK3/pick_place/20260912_164837"
+ },
+ {
+  "filename": "episode_50.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164910",
+  "view": "SEOK3/pick_place/20260912_164910"
+ },
+ {
+  "filename": "episode_51.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_164942",
+  "view": "SEOK3/pick_place/20260912_164942"
+ },
+ {
+  "filename": "episode_52.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_165016",
+  "view": "SEOK3/pick_place/20260912_165016"
+ },
+ {
+  "filename": "episode_53.hdf5",
+  "language_raw": "place the shot glass in front of me",
+  "src": "pick_place/20260912_165048",
+  "view": "SEOK3/pick_place/20260912_165048"
+ },
+ {
+  "filename": "episode_54.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165142",
+  "view": "SEOK3/pick_place/20260912_165142"
+ },
+ {
+  "filename": "episode_55.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165218",
+  "view": "SEOK3/pick_place/20260912_165218"
+ },
+ {
+  "filename": "episode_56.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165255",
+  "view": "SEOK3/pick_place/20260912_165255"
+ },
+ {
+  "filename": "episode_57.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165332",
+  "view": "SEOK3/pick_place/20260912_165332"
+ },
+ {
+  "filename": "episode_58.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165403",
+  "view": "SEOK3/pick_place/20260912_165403"
+ },
+ {
+  "filename": "episode_59.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165434",
+  "view": "SEOK3/pick_place/20260912_165434"
+ },
+ {
+  "filename": "episode_60.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165512",
+  "view": "SEOK3/pick_place/20260912_165512"
+ },
+ {
+  "filename": "episode_61.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165543",
+  "view": "SEOK3/pick_place/20260912_165543"
+ },
+ {
+  "filename": "episode_62.hdf5",
+  "language_raw": "place the big tape on the left",
+  "src": "pick_place/20260912_165650",
+  "view": "SEOK3/pick_place/20260912_165650"
+ },
+ {
+  "filename": "episode_63.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_165813",
+  "view": "SEOK3/pick_place/20260912_165813"
+ },
+ {
+  "filename": "episode_64.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_165923",
+  "view": "SEOK3/pick_place/20260912_165923"
+ },
+ {
+  "filename": "episode_65.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_165956",
+  "view": "SEOK3/pick_place/20260912_165956"
+ },
+ {
+  "filename": "episode_66.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170051",
+  "view": "SEOK3/pick_place/20260912_170051"
+ },
+ {
+  "filename": "episode_67.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170122",
+  "view": "SEOK3/pick_place/20260912_170122"
+ },
+ {
+  "filename": "episode_68.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170154",
+  "view": "SEOK3/pick_place/20260912_170154"
+ },
+ {
+  "filename": "episode_69.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170221",
+  "view": "SEOK3/pick_place/20260912_170221"
+ },
+ {
+  "filename": "episode_70.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170251",
+  "view": "SEOK3/pick_place/20260912_170251"
+ },
+ {
+  "filename": "episode_71.hdf5",
+  "language_raw": "place the big tape on the right",
+  "src": "pick_place/20260912_170320",
+  "view": "SEOK3/pick_place/20260912_170320"
+ },
+ {
+  "filename": "episode_72.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170351",
+  "view": "SEOK3/pick_place/20260912_170351"
+ },
+ {
+  "filename": "episode_73.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170426",
+  "view": "SEOK3/pick_place/20260912_170426"
+ },
+ {
+  "filename": "episode_74.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170503",
+  "view": "SEOK3/pick_place/20260912_170503"
+ },
+ {
+  "filename": "episode_75.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170539",
+  "view": "SEOK3/pick_place/20260912_170539"
+ },
+ {
+  "filename": "episode_76.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170613",
+  "view": "SEOK3/pick_place/20260912_170613"
+ },
+ {
+  "filename": "episode_77.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170645",
+  "view": "SEOK3/pick_place/20260912_170645"
+ },
+ {
+  "filename": "episode_78.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170714",
+  "view": "SEOK3/pick_place/20260912_170714"
+ },
+ {
+  "filename": "episode_79.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170744",
+  "view": "SEOK3/pick_place/20260912_170744"
+ },
+ {
+  "filename": "episode_80.hdf5",
+  "language_raw": "place the big tape in front of me",
+  "src": "pick_place/20260912_170814",
+  "view": "SEOK3/pick_place/20260912_170814"
+ },
+ {
+  "filename": "episode_81.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171348",
+  "view": "SEOK3/pick_place/20260912_171348"
+ },
+ {
+  "filename": "episode_82.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171423",
+  "view": "SEOK3/pick_place/20260912_171423"
+ },
+ {
+  "filename": "episode_83.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171458",
+  "view": "SEOK3/pick_place/20260912_171458"
+ },
+ {
+  "filename": "episode_84.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171534",
+  "view": "SEOK3/pick_place/20260912_171534"
+ },
+ {
+  "filename": "episode_85.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171603",
+  "view": "SEOK3/pick_place/20260912_171603"
+ },
+ {
+  "filename": "episode_86.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171632",
+  "view": "SEOK3/pick_place/20260912_171632"
+ },
+ {
+  "filename": "episode_87.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171702",
+  "view": "SEOK3/pick_place/20260912_171702"
+ },
+ {
+  "filename": "episode_88.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171733",
+  "view": "SEOK3/pick_place/20260912_171733"
+ },
+ {
+  "filename": "episode_89.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_171916",
+  "view": "SEOK3/pick_place/20260912_171916"
+ },
+ {
+  "filename": "episode_90.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172047",
+  "view": "SEOK3/pick_place/20260912_172047"
+ },
+ {
+  "filename": "episode_91.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172121",
+  "view": "SEOK3/pick_place/20260912_172121"
+ },
+ {
+  "filename": "episode_92.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172207",
+  "view": "SEOK3/pick_place/20260912_172207"
+ },
+ {
+  "filename": "episode_93.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172250",
+  "view": "SEOK3/pick_place/20260912_172250"
+ },
+ {
+  "filename": "episode_94.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172420",
+  "view": "SEOK3/pick_place/20260912_172420"
+ },
+ {
+  "filename": "episode_95.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_172452",
+  "view": "SEOK3/pick_place/20260912_172452"
+ },
+ {
+  "filename": "episode_96.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_173023",
+  "view": "SEOK3/pick_place/20260912_173023"
+ },
+ {
+  "filename": "episode_97.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_173051",
+  "view": "SEOK3/pick_place/20260912_173051"
+ },
+ {
+  "filename": "episode_98.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_173123",
+  "view": "SEOK3/pick_place/20260912_173123"
+ },
+ {
+  "filename": "episode_99.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173156",
+  "view": "SEOK3/pick_place/20260912_173156"
+ },
+ {
+  "filename": "episode_100.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173233",
+  "view": "SEOK3/pick_place/20260912_173233"
+ },
+ {
+  "filename": "episode_101.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173348",
+  "view": "SEOK3/pick_place/20260912_173348"
+ },
+ {
+  "filename": "episode_102.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173442",
+  "view": "SEOK3/pick_place/20260912_173442"
+ },
+ {
+  "filename": "episode_103.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173513",
+  "view": "SEOK3/pick_place/20260912_173513"
+ },
+ {
+  "filename": "episode_104.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173543",
+  "view": "SEOK3/pick_place/20260912_173543"
+ },
+ {
+  "filename": "episode_105.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173614",
+  "view": "SEOK3/pick_place/20260912_173614"
+ },
+ {
+  "filename": "episode_106.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173648",
+  "view": "SEOK3/pick_place/20260912_173648"
+ },
+ {
+  "filename": "episode_107.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_173719",
+  "view": "SEOK3/pick_place/20260912_173719"
+ },
+ {
+  "filename": "episode_108.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_173757",
+  "view": "SEOK3/pick_place/20260912_173757"
+ },
+ {
+  "filename": "episode_109.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_173827",
+  "view": "SEOK3/pick_place/20260912_173827"
+ },
+ {
+  "filename": "episode_110.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_173858",
+  "view": "SEOK3/pick_place/20260912_173858"
+ },
+ {
+  "filename": "episode_111.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_173934",
+  "view": "SEOK3/pick_place/20260912_173934"
+ },
+ {
+  "filename": "episode_112.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_174003",
+  "view": "SEOK3/pick_place/20260912_174003"
+ },
+ {
+  "filename": "episode_113.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_174038",
+  "view": "SEOK3/pick_place/20260912_174038"
+ },
+ {
+  "filename": "episode_114.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_174109",
+  "view": "SEOK3/pick_place/20260912_174109"
+ },
+ {
+  "filename": "episode_115.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_174142",
+  "view": "SEOK3/pick_place/20260912_174142"
+ },
+ {
+  "filename": "episode_116.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_174210",
+  "view": "SEOK3/pick_place/20260912_174210"
+ },
+ {
+  "filename": "episode_117.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174242",
+  "view": "SEOK3/pick_place/20260912_174242"
+ },
+ {
+  "filename": "episode_118.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174316",
+  "view": "SEOK3/pick_place/20260912_174316"
+ },
+ {
+  "filename": "episode_119.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174348",
+  "view": "SEOK3/pick_place/20260912_174348"
+ },
+ {
+  "filename": "episode_120.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174417",
+  "view": "SEOK3/pick_place/20260912_174417"
+ },
+ {
+  "filename": "episode_121.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174446",
+  "view": "SEOK3/pick_place/20260912_174446"
+ },
+ {
+  "filename": "episode_122.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174514",
+  "view": "SEOK3/pick_place/20260912_174514"
+ },
+ {
+  "filename": "episode_123.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174540",
+  "view": "SEOK3/pick_place/20260912_174540"
+ },
+ {
+  "filename": "episode_124.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174611",
+  "view": "SEOK3/pick_place/20260912_174611"
+ },
+ {
+  "filename": "episode_125.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_174637",
+  "view": "SEOK3/pick_place/20260912_174637"
+ },
+ {
+  "filename": "episode_126.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_174706",
+  "view": "SEOK3/pick_place/20260912_174706"
+ },
+ {
+  "filename": "episode_127.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_174739",
+  "view": "SEOK3/pick_place/20260912_174739"
+ },
+ {
+  "filename": "episode_128.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_174813",
+  "view": "SEOK3/pick_place/20260912_174813"
+ },
+ {
+  "filename": "episode_129.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_174913",
+  "view": "SEOK3/pick_place/20260912_174913"
+ },
+ {
+  "filename": "episode_130.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_174950",
+  "view": "SEOK3/pick_place/20260912_174950"
+ },
+ {
+  "filename": "episode_131.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_175019",
+  "view": "SEOK3/pick_place/20260912_175019"
+ },
+ {
+  "filename": "episode_132.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_175049",
+  "view": "SEOK3/pick_place/20260912_175049"
+ },
+ {
+  "filename": "episode_133.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_175124",
+  "view": "SEOK3/pick_place/20260912_175124"
+ },
+ {
+  "filename": "episode_134.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_175151",
+  "view": "SEOK3/pick_place/20260912_175151"
+ },
+ {
+  "filename": "episode_135.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_175240",
+  "view": "SEOK3/pick_place/20260912_175240"
+ },
+ {
+  "filename": "episode_136.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182051",
+  "view": "SEOK3/pick_place/20260912_182051"
+ },
+ {
+  "filename": "episode_137.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182121",
+  "view": "SEOK3/pick_place/20260912_182121"
+ },
+ {
+  "filename": "episode_138.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182242",
+  "view": "SEOK3/pick_place/20260912_182242"
+ },
+ {
+  "filename": "episode_139.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182308",
+  "view": "SEOK3/pick_place/20260912_182308"
+ },
+ {
+  "filename": "episode_140.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182344",
+  "view": "SEOK3/pick_place/20260912_182344"
+ },
+ {
+  "filename": "episode_141.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182419",
+  "view": "SEOK3/pick_place/20260912_182419"
+ },
+ {
+  "filename": "episode_142.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182453",
+  "view": "SEOK3/pick_place/20260912_182453"
+ },
+ {
+  "filename": "episode_143.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_182525",
+  "view": "SEOK3/pick_place/20260912_182525"
+ },
+ {
+  "filename": "episode_144.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182613",
+  "view": "SEOK3/pick_place/20260912_182613"
+ },
+ {
+  "filename": "episode_145.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182657",
+  "view": "SEOK3/pick_place/20260912_182657"
+ },
+ {
+  "filename": "episode_146.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182727",
+  "view": "SEOK3/pick_place/20260912_182727"
+ },
+ {
+  "filename": "episode_147.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182759",
+  "view": "SEOK3/pick_place/20260912_182759"
+ },
+ {
+  "filename": "episode_148.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182832",
+  "view": "SEOK3/pick_place/20260912_182832"
+ },
+ {
+  "filename": "episode_149.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182904",
+  "view": "SEOK3/pick_place/20260912_182904"
+ },
+ {
+  "filename": "episode_150.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_182934",
+  "view": "SEOK3/pick_place/20260912_182934"
+ },
+ {
+  "filename": "episode_151.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_183006",
+  "view": "SEOK3/pick_place/20260912_183006"
+ },
+ {
+  "filename": "episode_152.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_183037",
+  "view": "SEOK3/pick_place/20260912_183037"
+ },
+ {
+  "filename": "episode_153.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183136",
+  "view": "SEOK3/pick_place/20260912_183136"
+ },
+ {
+  "filename": "episode_154.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183208",
+  "view": "SEOK3/pick_place/20260912_183208"
+ },
+ {
+  "filename": "episode_155.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183242",
+  "view": "SEOK3/pick_place/20260912_183242"
+ },
+ {
+  "filename": "episode_156.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183320",
+  "view": "SEOK3/pick_place/20260912_183320"
+ },
+ {
+  "filename": "episode_157.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183430",
+  "view": "SEOK3/pick_place/20260912_183430"
+ },
+ {
+  "filename": "episode_158.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183506",
+  "view": "SEOK3/pick_place/20260912_183506"
+ },
+ {
+  "filename": "episode_159.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183544",
+  "view": "SEOK3/pick_place/20260912_183544"
+ },
+ {
+  "filename": "episode_160.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_183618",
+  "view": "SEOK3/pick_place/20260912_183618"
+ },
+ {
+  "filename": "episode_161.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_183720",
+  "view": "SEOK3/pick_place/20260912_183720"
+ },
+ {
+  "filename": "episode_162.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_183818",
+  "view": "SEOK3/pick_place/20260912_183818"
+ },
+ {
+  "filename": "episode_163.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_183918",
+  "view": "SEOK3/pick_place/20260912_183918"
+ },
+ {
+  "filename": "episode_164.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184009",
+  "view": "SEOK3/pick_place/20260912_184009"
+ },
+ {
+  "filename": "episode_165.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184120",
+  "view": "SEOK3/pick_place/20260912_184120"
+ },
+ {
+  "filename": "episode_166.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184206",
+  "view": "SEOK3/pick_place/20260912_184206"
+ },
+ {
+  "filename": "episode_167.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184259",
+  "view": "SEOK3/pick_place/20260912_184259"
+ },
+ {
+  "filename": "episode_168.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184356",
+  "view": "SEOK3/pick_place/20260912_184356"
+ },
+ {
+  "filename": "episode_169.hdf5",
+  "language_raw": "place the pen on the left",
+  "src": "pick_place/20260912_184448",
+  "view": "SEOK3/pick_place/20260912_184448"
+ },
+ {
+  "filename": "episode_170.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_184707",
+  "view": "SEOK3/pick_place/20260912_184707"
+ },
+ {
+  "filename": "episode_171.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_184823",
+  "view": "SEOK3/pick_place/20260912_184823"
+ },
+ {
+  "filename": "episode_172.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_184916",
+  "view": "SEOK3/pick_place/20260912_184916"
+ },
+ {
+  "filename": "episode_173.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185002",
+  "view": "SEOK3/pick_place/20260912_185002"
+ },
+ {
+  "filename": "episode_174.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185054",
+  "view": "SEOK3/pick_place/20260912_185054"
+ },
+ {
+  "filename": "episode_175.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185147",
+  "view": "SEOK3/pick_place/20260912_185147"
+ },
+ {
+  "filename": "episode_176.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185256",
+  "view": "SEOK3/pick_place/20260912_185256"
+ },
+ {
+  "filename": "episode_177.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185342",
+  "view": "SEOK3/pick_place/20260912_185342"
+ },
+ {
+  "filename": "episode_178.hdf5",
+  "language_raw": "place the pen on the right",
+  "src": "pick_place/20260912_185418",
+  "view": "SEOK3/pick_place/20260912_185418"
+ },
+ {
+  "filename": "episode_179.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185516",
+  "view": "SEOK3/pick_place/20260912_185516"
+ },
+ {
+  "filename": "episode_180.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185601",
+  "view": "SEOK3/pick_place/20260912_185601"
+ },
+ {
+  "filename": "episode_181.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185706",
+  "view": "SEOK3/pick_place/20260912_185706"
+ },
+ {
+  "filename": "episode_182.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185753",
+  "view": "SEOK3/pick_place/20260912_185753"
+ },
+ {
+  "filename": "episode_183.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185844",
+  "view": "SEOK3/pick_place/20260912_185844"
+ },
+ {
+  "filename": "episode_184.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_185932",
+  "view": "SEOK3/pick_place/20260912_185932"
+ },
+ {
+  "filename": "episode_185.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_190019",
+  "view": "SEOK3/pick_place/20260912_190019"
+ },
+ {
+  "filename": "episode_186.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_190104",
+  "view": "SEOK3/pick_place/20260912_190104"
+ },
+ {
+  "filename": "episode_187.hdf5",
+  "language_raw": "place the pen in front of me",
+  "src": "pick_place/20260912_190153",
+  "view": "SEOK3/pick_place/20260912_190153"
+ },
+ {
+  "filename": "episode_188.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190309",
+  "view": "SEOK3/pick_place/20260912_190309"
+ },
+ {
+  "filename": "episode_189.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190352",
+  "view": "SEOK3/pick_place/20260912_190352"
+ },
+ {
+  "filename": "episode_190.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190431",
+  "view": "SEOK3/pick_place/20260912_190431"
+ },
+ {
+  "filename": "episode_191.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190520",
+  "view": "SEOK3/pick_place/20260912_190520"
+ },
+ {
+  "filename": "episode_192.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190559",
+  "view": "SEOK3/pick_place/20260912_190559"
+ },
+ {
+  "filename": "episode_193.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190631",
+  "view": "SEOK3/pick_place/20260912_190631"
+ },
+ {
+  "filename": "episode_194.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190905",
+  "view": "SEOK3/pick_place/20260912_190905"
+ },
+ {
+  "filename": "episode_195.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_190935",
+  "view": "SEOK3/pick_place/20260912_190935"
+ },
+ {
+  "filename": "episode_196.hdf5",
+  "language_raw": "place the eraser on the left",
+  "src": "pick_place/20260912_191003",
+  "view": "SEOK3/pick_place/20260912_191003"
+ },
+ {
+  "filename": "episode_197.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191043",
+  "view": "SEOK3/pick_place/20260912_191043"
+ },
+ {
+  "filename": "episode_198.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191114",
+  "view": "SEOK3/pick_place/20260912_191114"
+ },
+ {
+  "filename": "episode_199.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191152",
+  "view": "SEOK3/pick_place/20260912_191152"
+ },
+ {
+  "filename": "episode_200.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191234",
+  "view": "SEOK3/pick_place/20260912_191234"
+ },
+ {
+  "filename": "episode_201.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191307",
+  "view": "SEOK3/pick_place/20260912_191307"
+ },
+ {
+  "filename": "episode_202.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191338",
+  "view": "SEOK3/pick_place/20260912_191338"
+ },
+ {
+  "filename": "episode_203.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191408",
+  "view": "SEOK3/pick_place/20260912_191408"
+ },
+ {
+  "filename": "episode_204.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191440",
+  "view": "SEOK3/pick_place/20260912_191440"
+ },
+ {
+  "filename": "episode_205.hdf5",
+  "language_raw": "place the eraser on the right",
+  "src": "pick_place/20260912_191508",
+  "view": "SEOK3/pick_place/20260912_191508"
+ },
+ {
+  "filename": "episode_206.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191634",
+  "view": "SEOK3/pick_place/20260912_191634"
+ },
+ {
+  "filename": "episode_207.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191706",
+  "view": "SEOK3/pick_place/20260912_191706"
+ },
+ {
+  "filename": "episode_208.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191743",
+  "view": "SEOK3/pick_place/20260912_191743"
+ },
+ {
+  "filename": "episode_209.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191843",
+  "view": "SEOK3/pick_place/20260912_191843"
+ },
+ {
+  "filename": "episode_210.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191917",
+  "view": "SEOK3/pick_place/20260912_191917"
+ },
+ {
+  "filename": "episode_211.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_191948",
+  "view": "SEOK3/pick_place/20260912_191948"
+ },
+ {
+  "filename": "episode_212.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_192048",
+  "view": "SEOK3/pick_place/20260912_192048"
+ },
+ {
+  "filename": "episode_213.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_192124",
+  "view": "SEOK3/pick_place/20260912_192124"
+ },
+ {
+  "filename": "episode_214.hdf5",
+  "language_raw": "place the eraser in front of me",
+  "src": "pick_place/20260912_192222",
+  "view": "SEOK3/pick_place/20260912_192222"
+ },
+ {
+  "filename": "episode_215.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192310",
+  "view": "SEOK3/pick_place/20260912_192310"
+ },
+ {
+  "filename": "episode_216.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192458",
+  "view": "SEOK3/pick_place/20260912_192458"
+ },
+ {
+  "filename": "episode_217.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192626",
+  "view": "SEOK3/pick_place/20260912_192626"
+ },
+ {
+  "filename": "episode_218.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192710",
+  "view": "SEOK3/pick_place/20260912_192710"
+ },
+ {
+  "filename": "episode_219.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192746",
+  "view": "SEOK3/pick_place/20260912_192746"
+ },
+ {
+  "filename": "episode_220.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192831",
+  "view": "SEOK3/pick_place/20260912_192831"
+ },
+ {
+  "filename": "episode_221.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_192918",
+  "view": "SEOK3/pick_place/20260912_192918"
+ },
+ {
+  "filename": "episode_222.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_193009",
+  "view": "SEOK3/pick_place/20260912_193009"
+ },
+ {
+  "filename": "episode_223.hdf5",
+  "language_raw": "place the knife on the left",
+  "src": "pick_place/20260912_193051",
+  "view": "SEOK3/pick_place/20260912_193051"
+ },
+ {
+  "filename": "episode_224.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_193602",
+  "view": "SEOK3/pick_place/20260912_193602"
+ },
+ {
+  "filename": "episode_225.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_193645",
+  "view": "SEOK3/pick_place/20260912_193645"
+ },
+ {
+  "filename": "episode_226.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_193742",
+  "view": "SEOK3/pick_place/20260912_193742"
+ },
+ {
+  "filename": "episode_227.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_193824",
+  "view": "SEOK3/pick_place/20260912_193824"
+ },
+ {
+  "filename": "episode_228.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_193913",
+  "view": "SEOK3/pick_place/20260912_193913"
+ },
+ {
+  "filename": "episode_229.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_194000",
+  "view": "SEOK3/pick_place/20260912_194000"
+ },
+ {
+  "filename": "episode_230.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_194047",
+  "view": "SEOK3/pick_place/20260912_194047"
+ },
+ {
+  "filename": "episode_231.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_194138",
+  "view": "SEOK3/pick_place/20260912_194138"
+ },
+ {
+  "filename": "episode_232.hdf5",
+  "language_raw": "place the knife on the right",
+  "src": "pick_place/20260912_194227",
+  "view": "SEOK3/pick_place/20260912_194227"
+ },
+ {
+  "filename": "episode_233.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194453",
+  "view": "SEOK3/pick_place/20260912_194453"
+ },
+ {
+  "filename": "episode_234.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194537",
+  "view": "SEOK3/pick_place/20260912_194537"
+ },
+ {
+  "filename": "episode_235.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194637",
+  "view": "SEOK3/pick_place/20260912_194637"
+ },
+ {
+  "filename": "episode_236.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194724",
+  "view": "SEOK3/pick_place/20260912_194724"
+ },
+ {
+  "filename": "episode_237.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194828",
+  "view": "SEOK3/pick_place/20260912_194828"
+ },
+ {
+  "filename": "episode_238.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_194910",
+  "view": "SEOK3/pick_place/20260912_194910"
+ },
+ {
+  "filename": "episode_239.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_195010",
+  "view": "SEOK3/pick_place/20260912_195010"
+ },
+ {
+  "filename": "episode_240.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_195056",
+  "view": "SEOK3/pick_place/20260912_195056"
+ },
+ {
+  "filename": "episode_241.hdf5",
+  "language_raw": "place the knife in front of me",
+  "src": "pick_place/20260912_195138",
+  "view": "SEOK3/pick_place/20260912_195138"
+ }
+]

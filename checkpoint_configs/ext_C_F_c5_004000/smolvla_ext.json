@@ -1,0 +1,48 @@
+{
+  "pvi": false,
+  "coda": true,
+  "rocket": false,
+  "main_ae": "freeze",
+  "main_ae_lr": 1e-05,
+  "new_lr": 0.0001,
+  "coda_num_steps": 5,
+  "rocket_pairs": [
+    [
+      3,
+      4
+    ],
+    [
+      7,
+      11
+    ],
+    [
+      11,
+      17
+    ],
+    [
+      15,
+      23
+    ]
+  ],
+  "rocket_alpha": 0.125,
+  "rocket_target_dir": null,
+  "rocket_dim": 2048,
+  "camera_hw": {
+    "observation.images.camera1": [
+      240,
+      320
+    ],
+    "observation.images.camera2": [
+      240,
+      320
+    ],
+    "observation.images.camera3": [
+      240,
+      320
+    ]
+  },
+  "main_num_steps": 5,
+  "attn_impl": "sdpa",
+  "compile_mode": "layers",
+  "version": 1
+}

@@ -1,0 +1,36 @@
+{
+  "openmani_meta_version": 1,
+  "produced_by": "convert_h5_to_lerobot_v3.py",
+  "repo_id": "local/d9_0912",
+  "space": "joint",
+  "unit": "raw_ticks",
+  "motor_order": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "joint_action_mode": "absolute_next",
+  "tick_center": 2048,
+  "ticks_per_rev": 4096,
+  "state_names": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "action_names": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "ee_yaw_encoding": null,
+  "fps": 10,
+  "fps_source": "verified from joints.csv t_seconds",
+  "deployable": true,
+  "deployable_reason": "5-D absolute Dynamixel targets in the openmani4_follower motor order ['id11', 'id22', 'id23', 'id24', 'id25']; send_action() writes them to Goal_Position directly."
+}

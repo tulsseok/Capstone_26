@@ -1,0 +1,2359 @@
+{
+  "mode": "convert",
+  "input_format": "raw",
+  "raw_root": "/home/vcl/Desktop/minjun/vla/data/_view0912",
+  "raw_episode_order": "sorted(person) -> sorted(task) -> sorted(timestamp), lexicographic; deterministic, independent of filesystem/inode order",
+  "out": "/home/vcl/Desktop/minjun/vla/data/lerobot_v3_d9_0912",
+  "repo_id": "local/d9_0912",
+  "space": "joint",
+  "fps": 10,
+  "lang_level": "raw",
+  "image_hw": [
+    240,
+    320
+  ],
+  "resized": false,
+  "video_codec": null,
+  "video_crf": null,
+  "n_input_files": 242,
+  "n_episodes": 242,
+  "n_frames": 54686,
+  "skipped": [],
+  "episodes": [
+    {
+      "raw_index": 0,
+      "dir": "SEOK3/pick_place/20260912_161544",
+      "frames": 165,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_161544"
+    },
+    {
+      "raw_index": 1,
+      "dir": "SEOK3/pick_place/20260912_161750",
+      "frames": 210,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_161750"
+    },
+    {
+      "raw_index": 2,
+      "dir": "SEOK3/pick_place/20260912_161831",
+      "frames": 222,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_161831"
+    },
+    {
+      "raw_index": 3,
+      "dir": "SEOK3/pick_place/20260912_161905",
+      "frames": 194,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_161905"
+    },
+    {
+      "raw_index": 4,
+      "dir": "SEOK3/pick_place/20260912_161936",
+      "frames": 189,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_161936"
+    },
+    {
+      "raw_index": 5,
+      "dir": "SEOK3/pick_place/20260912_162006",
+      "frames": 190,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162006"
+    },
+    {
+      "raw_index": 6,
+      "dir": "SEOK3/pick_place/20260912_162036",
+      "frames": 166,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162036"
+    },
+    {
+      "raw_index": 7,
+      "dir": "SEOK3/pick_place/20260912_162106",
+      "frames": 186,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162106"
+    },
+    {
+      "raw_index": 8,
+      "dir": "SEOK3/pick_place/20260912_162136",
+      "frames": 204,
+      "task": "place the small tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162136"
+    },
+    {
+      "raw_index": 9,
+      "dir": "SEOK3/pick_place/20260912_162208",
+      "frames": 215,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162208"
+    },
+    {
+      "raw_index": 10,
+      "dir": "SEOK3/pick_place/20260912_162241",
+      "frames": 236,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162241"
+    },
+    {
+      "raw_index": 11,
+      "dir": "SEOK3/pick_place/20260912_162318",
+      "frames": 204,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162318"
+    },
+    {
+      "raw_index": 12,
+      "dir": "SEOK3/pick_place/20260912_162351",
+      "frames": 205,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162351"
+    },
+    {
+      "raw_index": 13,
+      "dir": "SEOK3/pick_place/20260912_162422",
+      "frames": 204,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162422"
+    },
+    {
+      "raw_index": 14,
+      "dir": "SEOK3/pick_place/20260912_162453",
+      "frames": 193,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162453"
+    },
+    {
+      "raw_index": 15,
+      "dir": "SEOK3/pick_place/20260912_162555",
+      "frames": 217,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162555"
+    },
+    {
+      "raw_index": 16,
+      "dir": "SEOK3/pick_place/20260912_162627",
+      "frames": 218,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162627"
+    },
+    {
+      "raw_index": 17,
+      "dir": "SEOK3/pick_place/20260912_162701",
+      "frames": 193,
+      "task": "place the small tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162701"
+    },
+    {
+      "raw_index": 18,
+      "dir": "SEOK3/pick_place/20260912_162737",
+      "frames": 241,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162737"
+    },
+    {
+      "raw_index": 19,
+      "dir": "SEOK3/pick_place/20260912_162815",
+      "frames": 204,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162815"
+    },
+    {
+      "raw_index": 20,
+      "dir": "SEOK3/pick_place/20260912_162849",
+      "frames": 222,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162849"
+    },
+    {
+      "raw_index": 21,
+      "dir": "SEOK3/pick_place/20260912_162923",
+      "frames": 216,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162923"
+    },
+    {
+      "raw_index": 22,
+      "dir": "SEOK3/pick_place/20260912_162956",
+      "frames": 195,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_162956"
+    },
+    {
+      "raw_index": 23,
+      "dir": "SEOK3/pick_place/20260912_163025",
+      "frames": 199,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163025"
+    },
+    {
+      "raw_index": 24,
+      "dir": "SEOK3/pick_place/20260912_163057",
+      "frames": 198,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163057"
+    },
+    {
+      "raw_index": 25,
+      "dir": "SEOK3/pick_place/20260912_163129",
+      "frames": 184,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163129"
+    },
+    {
+      "raw_index": 26,
+      "dir": "SEOK3/pick_place/20260912_163159",
+      "frames": 203,
+      "task": "place the small tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163159"
+    },
+    {
+      "raw_index": 27,
+      "dir": "SEOK3/pick_place/20260912_163425",
+      "frames": 208,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163425"
+    },
+    {
+      "raw_index": 28,
+      "dir": "SEOK3/pick_place/20260912_163459",
+      "frames": 253,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163459"
+    },
+    {
+      "raw_index": 29,
+      "dir": "SEOK3/pick_place/20260912_163538",
+      "frames": 255,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163538"
+    },
+    {
+      "raw_index": 30,
+      "dir": "SEOK3/pick_place/20260912_163628",
+      "frames": 190,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163628"
+    },
+    {
+      "raw_index": 31,
+      "dir": "SEOK3/pick_place/20260912_163657",
+      "frames": 211,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163657"
+    },
+    {
+      "raw_index": 32,
+      "dir": "SEOK3/pick_place/20260912_163729",
+      "frames": 226,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163729"
+    },
+    {
+      "raw_index": 33,
+      "dir": "SEOK3/pick_place/20260912_163811",
+      "frames": 215,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163811"
+    },
+    {
+      "raw_index": 34,
+      "dir": "SEOK3/pick_place/20260912_163842",
+      "frames": 211,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163842"
+    },
+    {
+      "raw_index": 35,
+      "dir": "SEOK3/pick_place/20260912_163914",
+      "frames": 230,
+      "task": "place the shot glass on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163914"
+    },
+    {
+      "raw_index": 36,
+      "dir": "SEOK3/pick_place/20260912_163949",
+      "frames": 228,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_163949"
+    },
+    {
+      "raw_index": 37,
+      "dir": "SEOK3/pick_place/20260912_164024",
+      "frames": 218,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164024"
+    },
+    {
+      "raw_index": 38,
+      "dir": "SEOK3/pick_place/20260912_164058",
+      "frames": 192,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164058"
+    },
+    {
+      "raw_index": 39,
+      "dir": "SEOK3/pick_place/20260912_164210",
+      "frames": 217,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164210"
+    },
+    {
+      "raw_index": 40,
+      "dir": "SEOK3/pick_place/20260912_164247",
+      "frames": 202,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164247"
+    },
+    {
+      "raw_index": 41,
+      "dir": "SEOK3/pick_place/20260912_164317",
+      "frames": 235,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164317"
+    },
+    {
+      "raw_index": 42,
+      "dir": "SEOK3/pick_place/20260912_164422",
+      "frames": 207,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164422"
+    },
+    {
+      "raw_index": 43,
+      "dir": "SEOK3/pick_place/20260912_164454",
+      "frames": 237,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164454"
+    },
+    {
+      "raw_index": 44,
+      "dir": "SEOK3/pick_place/20260912_164531",
+      "frames": 216,
+      "task": "place the shot glass on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164531"
+    },
+    {
+      "raw_index": 45,
+      "dir": "SEOK3/pick_place/20260912_164609",
+      "frames": 225,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164609"
+    },
+    {
+      "raw_index": 46,
+      "dir": "SEOK3/pick_place/20260912_164643",
+      "frames": 236,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164643"
+    },
+    {
+      "raw_index": 47,
+      "dir": "SEOK3/pick_place/20260912_164720",
+      "frames": 262,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164720"
+    },
+    {
+      "raw_index": 48,
+      "dir": "SEOK3/pick_place/20260912_164802",
+      "frames": 230,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164802"
+    },
+    {
+      "raw_index": 49,
+      "dir": "SEOK3/pick_place/20260912_164837",
+      "frames": 211,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164837"
+    },
+    {
+      "raw_index": 50,
+      "dir": "SEOK3/pick_place/20260912_164910",
+      "frames": 190,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164910"
+    },
+    {
+      "raw_index": 51,
+      "dir": "SEOK3/pick_place/20260912_164942",
+      "frames": 220,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_164942"
+    },
+    {
+      "raw_index": 52,
+      "dir": "SEOK3/pick_place/20260912_165016",
+      "frames": 208,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165016"
+    },
+    {
+      "raw_index": 53,
+      "dir": "SEOK3/pick_place/20260912_165048",
+      "frames": 191,
+      "task": "place the shot glass in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165048"
+    },
+    {
+      "raw_index": 54,
+      "dir": "SEOK3/pick_place/20260912_165142",
+      "frames": 218,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165142"
+    },
+    {
+      "raw_index": 55,
+      "dir": "SEOK3/pick_place/20260912_165218",
+      "frames": 212,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165218"
+    },
+    {
+      "raw_index": 56,
+      "dir": "SEOK3/pick_place/20260912_165255",
+      "frames": 239,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165255"
+    },
+    {
+      "raw_index": 57,
+      "dir": "SEOK3/pick_place/20260912_165332",
+      "frames": 208,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165332"
+    },
+    {
+      "raw_index": 58,
+      "dir": "SEOK3/pick_place/20260912_165403",
+      "frames": 215,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165403"
+    },
+    {
+      "raw_index": 59,
+      "dir": "SEOK3/pick_place/20260912_165434",
+      "frames": 240,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165434"
+    },
+    {
+      "raw_index": 60,
+      "dir": "SEOK3/pick_place/20260912_165512",
+      "frames": 217,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165512"
+    },
+    {
+      "raw_index": 61,
+      "dir": "SEOK3/pick_place/20260912_165543",
+      "frames": 208,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165543"
+    },
+    {
+      "raw_index": 62,
+      "dir": "SEOK3/pick_place/20260912_165650",
+      "frames": 192,
+      "task": "place the big tape on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165650"
+    },
+    {
+      "raw_index": 63,
+      "dir": "SEOK3/pick_place/20260912_165813",
+      "frames": 218,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165813"
+    },
+    {
+      "raw_index": 64,
+      "dir": "SEOK3/pick_place/20260912_165923",
+      "frames": 203,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165923"
+    },
+    {
+      "raw_index": 65,
+      "dir": "SEOK3/pick_place/20260912_165956",
+      "frames": 225,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_165956"
+    },
+    {
+      "raw_index": 66,
+      "dir": "SEOK3/pick_place/20260912_170051",
+      "frames": 222,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170051"
+    },
+    {
+      "raw_index": 67,
+      "dir": "SEOK3/pick_place/20260912_170122",
+      "frames": 174,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170122"
+    },
+    {
+      "raw_index": 68,
+      "dir": "SEOK3/pick_place/20260912_170154",
+      "frames": 176,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170154"
+    },
+    {
+      "raw_index": 69,
+      "dir": "SEOK3/pick_place/20260912_170221",
+      "frames": 196,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170221"
+    },
+    {
+      "raw_index": 70,
+      "dir": "SEOK3/pick_place/20260912_170251",
+      "frames": 191,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170251"
+    },
+    {
+      "raw_index": 71,
+      "dir": "SEOK3/pick_place/20260912_170320",
+      "frames": 184,
+      "task": "place the big tape on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170320"
+    },
+    {
+      "raw_index": 72,
+      "dir": "SEOK3/pick_place/20260912_170351",
+      "frames": 233,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170351"
+    },
+    {
+      "raw_index": 73,
+      "dir": "SEOK3/pick_place/20260912_170426",
+      "frames": 257,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170426"
+    },
+    {
+      "raw_index": 74,
+      "dir": "SEOK3/pick_place/20260912_170503",
+      "frames": 237,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170503"
+    },
+    {
+      "raw_index": 75,
+      "dir": "SEOK3/pick_place/20260912_170539",
+      "frames": 229,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170539"
+    },
+    {
+      "raw_index": 76,
+      "dir": "SEOK3/pick_place/20260912_170613",
+      "frames": 212,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170613"
+    },
+    {
+      "raw_index": 77,
+      "dir": "SEOK3/pick_place/20260912_170645",
+      "frames": 181,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170645"
+    },
+    {
+      "raw_index": 78,
+      "dir": "SEOK3/pick_place/20260912_170714",
+      "frames": 175,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170714"
+    },
+    {
+      "raw_index": 79,
+      "dir": "SEOK3/pick_place/20260912_170744",
+      "frames": 167,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170744"
+    },
+    {
+      "raw_index": 80,
+      "dir": "SEOK3/pick_place/20260912_170814",
+      "frames": 173,
+      "task": "place the big tape in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_170814"
+    },
+    {
+      "raw_index": 81,
+      "dir": "SEOK3/pick_place/20260912_171348",
+      "frames": 205,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171348"
+    },
+    {
+      "raw_index": 82,
+      "dir": "SEOK3/pick_place/20260912_171423",
+      "frames": 227,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171423"
+    },
+    {
+      "raw_index": 83,
+      "dir": "SEOK3/pick_place/20260912_171458",
+      "frames": 247,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171458"
+    },
+    {
+      "raw_index": 84,
+      "dir": "SEOK3/pick_place/20260912_171534",
+      "frames": 188,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171534"
+    },
+    {
+      "raw_index": 85,
+      "dir": "SEOK3/pick_place/20260912_171603",
+      "frames": 196,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171603"
+    },
+    {
+      "raw_index": 86,
+      "dir": "SEOK3/pick_place/20260912_171632",
+      "frames": 216,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171632"
+    },
+    {
+      "raw_index": 87,
+      "dir": "SEOK3/pick_place/20260912_171702",
+      "frames": 202,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171702"
+    },
+    {
+      "raw_index": 88,
+      "dir": "SEOK3/pick_place/20260912_171733",
+      "frames": 214,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171733"
+    },
+    {
+      "raw_index": 89,
+      "dir": "SEOK3/pick_place/20260912_171916",
+      "frames": 233,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_171916"
+    },
+    {
+      "raw_index": 90,
+      "dir": "SEOK3/pick_place/20260912_172047",
+      "frames": 226,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172047"
+    },
+    {
+      "raw_index": 91,
+      "dir": "SEOK3/pick_place/20260912_172121",
+      "frames": 306,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172121"
+    },
+    {
+      "raw_index": 92,
+      "dir": "SEOK3/pick_place/20260912_172207",
+      "frames": 292,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172207"
+    },
+    {
+      "raw_index": 93,
+      "dir": "SEOK3/pick_place/20260912_172250",
+      "frames": 213,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172250"
+    },
+    {
+      "raw_index": 94,
+      "dir": "SEOK3/pick_place/20260912_172420",
+      "frames": 217,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172420"
+    },
+    {
+      "raw_index": 95,
+      "dir": "SEOK3/pick_place/20260912_172452",
+      "frames": 197,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_172452"
+    },
+    {
+      "raw_index": 96,
+      "dir": "SEOK3/pick_place/20260912_173023",
+      "frames": 180,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173023"
+    },
+    {
+      "raw_index": 97,
+      "dir": "SEOK3/pick_place/20260912_173051",
+      "frames": 173,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173051"
+    },
+    {
+      "raw_index": 98,
+      "dir": "SEOK3/pick_place/20260912_173123",
+      "frames": 181,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173123"
+    },
+    {
+      "raw_index": 99,
+      "dir": "SEOK3/pick_place/20260912_173156",
+      "frames": 245,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173156"
+    },
+    {
+      "raw_index": 100,
+      "dir": "SEOK3/pick_place/20260912_173233",
+      "frames": 232,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173233"
+    },
+    {
+      "raw_index": 101,
+      "dir": "SEOK3/pick_place/20260912_173348",
+      "frames": 265,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173348"
+    },
+    {
+      "raw_index": 102,
+      "dir": "SEOK3/pick_place/20260912_173442",
+      "frames": 188,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173442"
+    },
+    {
+      "raw_index": 103,
+      "dir": "SEOK3/pick_place/20260912_173513",
+      "frames": 194,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173513"
+    },
+    {
+      "raw_index": 104,
+      "dir": "SEOK3/pick_place/20260912_173543",
+      "frames": 192,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173543"
+    },
+    {
+      "raw_index": 105,
+      "dir": "SEOK3/pick_place/20260912_173614",
+      "frames": 221,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173614"
+    },
+    {
+      "raw_index": 106,
+      "dir": "SEOK3/pick_place/20260912_173648",
+      "frames": 185,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173648"
+    },
+    {
+      "raw_index": 107,
+      "dir": "SEOK3/pick_place/20260912_173719",
+      "frames": 200,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173719"
+    },
+    {
+      "raw_index": 108,
+      "dir": "SEOK3/pick_place/20260912_173757",
+      "frames": 190,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173757"
+    },
+    {
+      "raw_index": 109,
+      "dir": "SEOK3/pick_place/20260912_173827",
+      "frames": 197,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173827"
+    },
+    {
+      "raw_index": 110,
+      "dir": "SEOK3/pick_place/20260912_173858",
+      "frames": 240,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173858"
+    },
+    {
+      "raw_index": 111,
+      "dir": "SEOK3/pick_place/20260912_173934",
+      "frames": 185,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_173934"
+    },
+    {
+      "raw_index": 112,
+      "dir": "SEOK3/pick_place/20260912_174003",
+      "frames": 186,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174003"
+    },
+    {
+      "raw_index": 113,
+      "dir": "SEOK3/pick_place/20260912_174038",
+      "frames": 214,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174038"
+    },
+    {
+      "raw_index": 114,
+      "dir": "SEOK3/pick_place/20260912_174109",
+      "frames": 218,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174109"
+    },
+    {
+      "raw_index": 115,
+      "dir": "SEOK3/pick_place/20260912_174142",
+      "frames": 198,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174142"
+    },
+    {
+      "raw_index": 116,
+      "dir": "SEOK3/pick_place/20260912_174210",
+      "frames": 197,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174210"
+    },
+    {
+      "raw_index": 117,
+      "dir": "SEOK3/pick_place/20260912_174242",
+      "frames": 225,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174242"
+    },
+    {
+      "raw_index": 118,
+      "dir": "SEOK3/pick_place/20260912_174316",
+      "frames": 207,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174316"
+    },
+    {
+      "raw_index": 119,
+      "dir": "SEOK3/pick_place/20260912_174348",
+      "frames": 192,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174348"
+    },
+    {
+      "raw_index": 120,
+      "dir": "SEOK3/pick_place/20260912_174417",
+      "frames": 192,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174417"
+    },
+    {
+      "raw_index": 121,
+      "dir": "SEOK3/pick_place/20260912_174446",
+      "frames": 180,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174446"
+    },
+    {
+      "raw_index": 122,
+      "dir": "SEOK3/pick_place/20260912_174514",
+      "frames": 182,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174514"
+    },
+    {
+      "raw_index": 123,
+      "dir": "SEOK3/pick_place/20260912_174540",
+      "frames": 206,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174540"
+    },
+    {
+      "raw_index": 124,
+      "dir": "SEOK3/pick_place/20260912_174611",
+      "frames": 171,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174611"
+    },
+    {
+      "raw_index": 125,
+      "dir": "SEOK3/pick_place/20260912_174637",
+      "frames": 162,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174637"
+    },
+    {
+      "raw_index": 126,
+      "dir": "SEOK3/pick_place/20260912_174706",
+      "frames": 214,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174706"
+    },
+    {
+      "raw_index": 127,
+      "dir": "SEOK3/pick_place/20260912_174739",
+      "frames": 219,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174739"
+    },
+    {
+      "raw_index": 128,
+      "dir": "SEOK3/pick_place/20260912_174813",
+      "frames": 236,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174813"
+    },
+    {
+      "raw_index": 129,
+      "dir": "SEOK3/pick_place/20260912_174913",
+      "frames": 221,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174913"
+    },
+    {
+      "raw_index": 130,
+      "dir": "SEOK3/pick_place/20260912_174950",
+      "frames": 191,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_174950"
+    },
+    {
+      "raw_index": 131,
+      "dir": "SEOK3/pick_place/20260912_175019",
+      "frames": 199,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_175019"
+    },
+    {
+      "raw_index": 132,
+      "dir": "SEOK3/pick_place/20260912_175049",
+      "frames": 198,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_175049"
+    },
+    {
+      "raw_index": 133,
+      "dir": "SEOK3/pick_place/20260912_175124",
+      "frames": 178,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_175124"
+    },
+    {
+      "raw_index": 134,
+      "dir": "SEOK3/pick_place/20260912_175151",
+      "frames": 209,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_175151"
+    },
+    {
+      "raw_index": 135,
+      "dir": "SEOK3/pick_place/20260912_175240",
+      "frames": 182,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_175240"
+    },
+    {
+      "raw_index": 136,
+      "dir": "SEOK3/pick_place/20260912_182051",
+      "frames": 198,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182051"
+    },
+    {
+      "raw_index": 137,
+      "dir": "SEOK3/pick_place/20260912_182121",
+      "frames": 229,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182121"
+    },
+    {
+      "raw_index": 138,
+      "dir": "SEOK3/pick_place/20260912_182242",
+      "frames": 176,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182242"
+    },
+    {
+      "raw_index": 139,
+      "dir": "SEOK3/pick_place/20260912_182308",
+      "frames": 232,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182308"
+    },
+    {
+      "raw_index": 140,
+      "dir": "SEOK3/pick_place/20260912_182344",
+      "frames": 232,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182344"
+    },
+    {
+      "raw_index": 141,
+      "dir": "SEOK3/pick_place/20260912_182419",
+      "frames": 170,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182419"
+    },
+    {
+      "raw_index": 142,
+      "dir": "SEOK3/pick_place/20260912_182453",
+      "frames": 194,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182453"
+    },
+    {
+      "raw_index": 143,
+      "dir": "SEOK3/pick_place/20260912_182525",
+      "frames": 239,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182525"
+    },
+    {
+      "raw_index": 144,
+      "dir": "SEOK3/pick_place/20260912_182613",
+      "frames": 242,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182613"
+    },
+    {
+      "raw_index": 145,
+      "dir": "SEOK3/pick_place/20260912_182657",
+      "frames": 188,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182657"
+    },
+    {
+      "raw_index": 146,
+      "dir": "SEOK3/pick_place/20260912_182727",
+      "frames": 200,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182727"
+    },
+    {
+      "raw_index": 147,
+      "dir": "SEOK3/pick_place/20260912_182759",
+      "frames": 223,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182759"
+    },
+    {
+      "raw_index": 148,
+      "dir": "SEOK3/pick_place/20260912_182832",
+      "frames": 213,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182832"
+    },
+    {
+      "raw_index": 149,
+      "dir": "SEOK3/pick_place/20260912_182904",
+      "frames": 199,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182904"
+    },
+    {
+      "raw_index": 150,
+      "dir": "SEOK3/pick_place/20260912_182934",
+      "frames": 200,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_182934"
+    },
+    {
+      "raw_index": 151,
+      "dir": "SEOK3/pick_place/20260912_183006",
+      "frames": 195,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183006"
+    },
+    {
+      "raw_index": 152,
+      "dir": "SEOK3/pick_place/20260912_183037",
+      "frames": 206,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183037"
+    },
+    {
+      "raw_index": 153,
+      "dir": "SEOK3/pick_place/20260912_183136",
+      "frames": 194,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183136"
+    },
+    {
+      "raw_index": 154,
+      "dir": "SEOK3/pick_place/20260912_183208",
+      "frames": 189,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183208"
+    },
+    {
+      "raw_index": 155,
+      "dir": "SEOK3/pick_place/20260912_183242",
+      "frames": 230,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183242"
+    },
+    {
+      "raw_index": 156,
+      "dir": "SEOK3/pick_place/20260912_183320",
+      "frames": 214,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183320"
+    },
+    {
+      "raw_index": 157,
+      "dir": "SEOK3/pick_place/20260912_183430",
+      "frames": 207,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183430"
+    },
+    {
+      "raw_index": 158,
+      "dir": "SEOK3/pick_place/20260912_183506",
+      "frames": 198,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183506"
+    },
+    {
+      "raw_index": 159,
+      "dir": "SEOK3/pick_place/20260912_183544",
+      "frames": 229,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183544"
+    },
+    {
+      "raw_index": 160,
+      "dir": "SEOK3/pick_place/20260912_183618",
+      "frames": 232,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183618"
+    },
+    {
+      "raw_index": 161,
+      "dir": "SEOK3/pick_place/20260912_183720",
+      "frames": 344,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183720"
+    },
+    {
+      "raw_index": 162,
+      "dir": "SEOK3/pick_place/20260912_183818",
+      "frames": 261,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183818"
+    },
+    {
+      "raw_index": 163,
+      "dir": "SEOK3/pick_place/20260912_183918",
+      "frames": 327,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_183918"
+    },
+    {
+      "raw_index": 164,
+      "dir": "SEOK3/pick_place/20260912_184009",
+      "frames": 288,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184009"
+    },
+    {
+      "raw_index": 165,
+      "dir": "SEOK3/pick_place/20260912_184120",
+      "frames": 274,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184120"
+    },
+    {
+      "raw_index": 166,
+      "dir": "SEOK3/pick_place/20260912_184206",
+      "frames": 329,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184206"
+    },
+    {
+      "raw_index": 167,
+      "dir": "SEOK3/pick_place/20260912_184259",
+      "frames": 289,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184259"
+    },
+    {
+      "raw_index": 168,
+      "dir": "SEOK3/pick_place/20260912_184356",
+      "frames": 293,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184356"
+    },
+    {
+      "raw_index": 169,
+      "dir": "SEOK3/pick_place/20260912_184448",
+      "frames": 276,
+      "task": "place the pen on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184448"
+    },
+    {
+      "raw_index": 170,
+      "dir": "SEOK3/pick_place/20260912_184707",
+      "frames": 305,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184707"
+    },
+    {
+      "raw_index": 171,
+      "dir": "SEOK3/pick_place/20260912_184823",
+      "frames": 300,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184823"
+    },
+    {
+      "raw_index": 172,
+      "dir": "SEOK3/pick_place/20260912_184916",
+      "frames": 283,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_184916"
+    },
+    {
+      "raw_index": 173,
+      "dir": "SEOK3/pick_place/20260912_185002",
+      "frames": 318,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185002"
+    },
+    {
+      "raw_index": 174,
+      "dir": "SEOK3/pick_place/20260912_185054",
+      "frames": 297,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185054"
+    },
+    {
+      "raw_index": 175,
+      "dir": "SEOK3/pick_place/20260912_185147",
+      "frames": 294,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185147"
+    },
+    {
+      "raw_index": 176,
+      "dir": "SEOK3/pick_place/20260912_185256",
+      "frames": 282,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185256"
+    },
+    {
+      "raw_index": 177,
+      "dir": "SEOK3/pick_place/20260912_185342",
+      "frames": 204,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185342"
+    },
+    {
+      "raw_index": 178,
+      "dir": "SEOK3/pick_place/20260912_185418",
+      "frames": 308,
+      "task": "place the pen on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185418"
+    },
+    {
+      "raw_index": 179,
+      "dir": "SEOK3/pick_place/20260912_185516",
+      "frames": 276,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185516"
+    },
+    {
+      "raw_index": 180,
+      "dir": "SEOK3/pick_place/20260912_185601",
+      "frames": 321,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185601"
+    },
+    {
+      "raw_index": 181,
+      "dir": "SEOK3/pick_place/20260912_185706",
+      "frames": 279,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185706"
+    },
+    {
+      "raw_index": 182,
+      "dir": "SEOK3/pick_place/20260912_185753",
+      "frames": 315,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185753"
+    },
+    {
+      "raw_index": 183,
+      "dir": "SEOK3/pick_place/20260912_185844",
+      "frames": 297,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185844"
+    },
+    {
+      "raw_index": 184,
+      "dir": "SEOK3/pick_place/20260912_185932",
+      "frames": 299,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_185932"
+    },
+    {
+      "raw_index": 185,
+      "dir": "SEOK3/pick_place/20260912_190019",
+      "frames": 296,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190019"
+    },
+    {
+      "raw_index": 186,
+      "dir": "SEOK3/pick_place/20260912_190104",
+      "frames": 275,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190104"
+    },
+    {
+      "raw_index": 187,
+      "dir": "SEOK3/pick_place/20260912_190153",
+      "frames": 301,
+      "task": "place the pen in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190153"
+    },
+    {
+      "raw_index": 188,
+      "dir": "SEOK3/pick_place/20260912_190309",
+      "frames": 186,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190309"
+    },
+    {
+      "raw_index": 189,
+      "dir": "SEOK3/pick_place/20260912_190352",
+      "frames": 236,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190352"
+    },
+    {
+      "raw_index": 190,
+      "dir": "SEOK3/pick_place/20260912_190431",
+      "frames": 252,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190431"
+    },
+    {
+      "raw_index": 191,
+      "dir": "SEOK3/pick_place/20260912_190520",
+      "frames": 218,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190520"
+    },
+    {
+      "raw_index": 192,
+      "dir": "SEOK3/pick_place/20260912_190559",
+      "frames": 207,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190559"
+    },
+    {
+      "raw_index": 193,
+      "dir": "SEOK3/pick_place/20260912_190631",
+      "frames": 221,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190631"
+    },
+    {
+      "raw_index": 194,
+      "dir": "SEOK3/pick_place/20260912_190905",
+      "frames": 184,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190905"
+    },
+    {
+      "raw_index": 195,
+      "dir": "SEOK3/pick_place/20260912_190935",
+      "frames": 186,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_190935"
+    },
+    {
+      "raw_index": 196,
+      "dir": "SEOK3/pick_place/20260912_191003",
+      "frames": 211,
+      "task": "place the eraser on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191003"
+    },
+    {
+      "raw_index": 197,
+      "dir": "SEOK3/pick_place/20260912_191043",
+      "frames": 208,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191043"
+    },
+    {
+      "raw_index": 198,
+      "dir": "SEOK3/pick_place/20260912_191114",
+      "frames": 213,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191114"
+    },
+    {
+      "raw_index": 199,
+      "dir": "SEOK3/pick_place/20260912_191152",
+      "frames": 194,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191152"
+    },
+    {
+      "raw_index": 200,
+      "dir": "SEOK3/pick_place/20260912_191234",
+      "frames": 192,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191234"
+    },
+    {
+      "raw_index": 201,
+      "dir": "SEOK3/pick_place/20260912_191307",
+      "frames": 178,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191307"
+    },
+    {
+      "raw_index": 202,
+      "dir": "SEOK3/pick_place/20260912_191338",
+      "frames": 169,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191338"
+    },
+    {
+      "raw_index": 203,
+      "dir": "SEOK3/pick_place/20260912_191408",
+      "frames": 193,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191408"
+    },
+    {
+      "raw_index": 204,
+      "dir": "SEOK3/pick_place/20260912_191440",
+      "frames": 177,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191440"
+    },
+    {
+      "raw_index": 205,
+      "dir": "SEOK3/pick_place/20260912_191508",
+      "frames": 178,
+      "task": "place the eraser on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191508"
+    },
+    {
+      "raw_index": 206,
+      "dir": "SEOK3/pick_place/20260912_191634",
+      "frames": 206,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191634"
+    },
+    {
+      "raw_index": 207,
+      "dir": "SEOK3/pick_place/20260912_191706",
+      "frames": 219,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191706"
+    },
+    {
+      "raw_index": 208,
+      "dir": "SEOK3/pick_place/20260912_191743",
+      "frames": 244,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191743"
+    },
+    {
+      "raw_index": 209,
+      "dir": "SEOK3/pick_place/20260912_191843",
+      "frames": 207,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191843"
+    },
+    {
+      "raw_index": 210,
+      "dir": "SEOK3/pick_place/20260912_191917",
+      "frames": 206,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191917"
+    },
+    {
+      "raw_index": 211,
+      "dir": "SEOK3/pick_place/20260912_191948",
+      "frames": 202,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_191948"
+    },
+    {
+      "raw_index": 212,
+      "dir": "SEOK3/pick_place/20260912_192048",
+      "frames": 190,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192048"
+    },
+    {
+      "raw_index": 213,
+      "dir": "SEOK3/pick_place/20260912_192124",
+      "frames": 180,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192124"
+    },
+    {
+      "raw_index": 214,
+      "dir": "SEOK3/pick_place/20260912_192222",
+      "frames": 191,
+      "task": "place the eraser in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192222"
+    },
+    {
+      "raw_index": 215,
+      "dir": "SEOK3/pick_place/20260912_192310",
+      "frames": 254,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192310"
+    },
+    {
+      "raw_index": 216,
+      "dir": "SEOK3/pick_place/20260912_192458",
+      "frames": 362,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192458"
+    },
+    {
+      "raw_index": 217,
+      "dir": "SEOK3/pick_place/20260912_192626",
+      "frames": 295,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192626"
+    },
+    {
+      "raw_index": 218,
+      "dir": "SEOK3/pick_place/20260912_192710",
+      "frames": 243,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192710"
+    },
+    {
+      "raw_index": 219,
+      "dir": "SEOK3/pick_place/20260912_192746",
+      "frames": 252,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192746"
+    },
+    {
+      "raw_index": 220,
+      "dir": "SEOK3/pick_place/20260912_192831",
+      "frames": 290,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192831"
+    },
+    {
+      "raw_index": 221,
+      "dir": "SEOK3/pick_place/20260912_192918",
+      "frames": 279,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_192918"
+    },
+    {
+      "raw_index": 222,
+      "dir": "SEOK3/pick_place/20260912_193009",
+      "frames": 247,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193009"
+    },
+    {
+      "raw_index": 223,
+      "dir": "SEOK3/pick_place/20260912_193051",
+      "frames": 267,
+      "task": "place the knife on the left",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193051"
+    },
+    {
+      "raw_index": 224,
+      "dir": "SEOK3/pick_place/20260912_193602",
+      "frames": 276,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193602"
+    },
+    {
+      "raw_index": 225,
+      "dir": "SEOK3/pick_place/20260912_193645",
+      "frames": 319,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193645"
+    },
+    {
+      "raw_index": 226,
+      "dir": "SEOK3/pick_place/20260912_193742",
+      "frames": 272,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193742"
+    },
+    {
+      "raw_index": 227,
+      "dir": "SEOK3/pick_place/20260912_193824",
+      "frames": 301,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193824"
+    },
+    {
+      "raw_index": 228,
+      "dir": "SEOK3/pick_place/20260912_193913",
+      "frames": 295,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_193913"
+    },
+    {
+      "raw_index": 229,
+      "dir": "SEOK3/pick_place/20260912_194000",
+      "frames": 277,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194000"
+    },
+    {
+      "raw_index": 230,
+      "dir": "SEOK3/pick_place/20260912_194047",
+      "frames": 298,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194047"
+    },
+    {
+      "raw_index": 231,
+      "dir": "SEOK3/pick_place/20260912_194138",
+      "frames": 280,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194138"
+    },
+    {
+      "raw_index": 232,
+      "dir": "SEOK3/pick_place/20260912_194227",
+      "frames": 275,
+      "task": "place the knife on the right",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194227"
+    },
+    {
+      "raw_index": 233,
+      "dir": "SEOK3/pick_place/20260912_194453",
+      "frames": 295,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194453"
+    },
+    {
+      "raw_index": 234,
+      "dir": "SEOK3/pick_place/20260912_194537",
+      "frames": 351,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194537"
+    },
+    {
+      "raw_index": 235,
+      "dir": "SEOK3/pick_place/20260912_194637",
+      "frames": 280,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194637"
+    },
+    {
+      "raw_index": 236,
+      "dir": "SEOK3/pick_place/20260912_194724",
+      "frames": 296,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194724"
+    },
+    {
+      "raw_index": 237,
+      "dir": "SEOK3/pick_place/20260912_194828",
+      "frames": 278,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194828"
+    },
+    {
+      "raw_index": 238,
+      "dir": "SEOK3/pick_place/20260912_194910",
+      "frames": 310,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_194910"
+    },
+    {
+      "raw_index": 239,
+      "dir": "SEOK3/pick_place/20260912_195010",
+      "frames": 261,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_195010"
+    },
+    {
+      "raw_index": 240,
+      "dir": "SEOK3/pick_place/20260912_195056",
+      "frames": 278,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_195056"
+    },
+    {
+      "raw_index": 241,
+      "dir": "SEOK3/pick_place/20260912_195138",
+      "frames": 224,
+      "task": "place the knife in front of me",
+      "person": "SEOK3",
+      "folder_task": "pick_place",
+      "stamp": "20260912_195138"
+    }
+  ],
+  "peak_rss_gb": 0.812,
+  "joint_units": "tick",
+  "joint_action_mode": "absolute_next",
+  "joint_motor_order": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "state_names": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "action_names": [
+    "id11",
+    "id22",
+    "id23",
+    "id24",
+    "id25"
+  ],
+  "state_definition": "state[t] = joints.csv row t, raw Dynamixel ticks, order ['id11', 'id22', 'id23', 'id24', 'id25']",
+  "action_definition": "action[t] = state[t+1] (absolute_next); the last frame holds the last target. Absolute because openmani4_follower.send_action() writes Goal_Position directly (client_live.py:394-399) and no integrator exists in the new stack.",
+  "fps_source": "verified from joints.csv t_seconds",
+  "fps_tol": 0.02,
+  "tick_range_checked": [
+    0,
+    4095
+  ],
+  "metadata_task_name_mismatches": 0,
+  "metadata_task_name_note": "metadata.csv task_name is NOT used and NOT enforced: it is stale for moon/push (says pick_place). The folder task is used instead, corroborated by gripper travel in joints.csv.",
+  "language_source": "reasoning json (reasoning_0912.json), mapping VERIFIED: verb match 100.00%",
+  "language_mapping": {
+    "hypothesis": "episode_N -> episodes sorted by (person, task, timestamp), N as position",
+    "n_episodes": 242,
+    "n_checkable": 242,
+    "n_verb_match": 242,
+    "verb_match_rate": 1.0,
+    "min_match_required": 0.99,
+    "accepted": true,
+    "unknown_tasks": {},
+    "mismatch_examples": [],
+    "check": "first word of language_raw vs folder task via RAW_TASK_TO_VERB (folder task, NOT metadata.csv task_name -- that field is stale for moon/push and is contradicted by the gripper travel in joints.csv)",
+    "alternatives_measured": {
+      "(a) person, task, timestamp [ADOPTED]": "verb match 972/972 = 100%",
+      "(b) task, person, timestamp": "verb match 486/972 = 50% -> rejected",
+      "(c) timestamp, global": "verb match 100%, but assigns the IDENTICAL string to all 972 episodes as (a) -- same output",
+      "(d) os.walk / inode order": "verb match 100% at block level, but disagrees with (a) on 934/972 episodes. Rejected: (i) the previous exporter's index was exactly sorted(person, task, time) at all 924 positions, which inode order is not; (ii) under (d) the language runs do not line up with the operator's object-swap gaps (permutation p = 1.00/0.73/1.00/1.00 vs p < 2e-4 for (a))",
+      "(e) person DESC (moon first)": "verb match 100%; assigns the IDENTICAL string to all 972 episodes as (a), because the two 'place' blocks are elementwise equal and so are the two 'push' blocks -- the han/moon order is therefore unobservable in the output"
+    },
+    "metadata_task_name_rate_note": "the same check against metadata.csv task_name instead of the folder task gives 729/972 = 75% for (a); the 243 disagreements are exactly moon/push, whose task_name field says pick_place while the joints.csv gripper never moves."
+  },
+  "reasoning_labels_present": 0,
+  "reasoning_labels_used": false,
+  "reasoning_labels_note": "`reasoning_labels` (step_0 = a multi-step narration) exists for 0/242 entries and is NOT written to the dataset: SmolVLA takes a single instruction string per frame.",
+  "deployable": true,
+  "deployable_reason": "5-D absolute Dynamixel targets in the openmani4_follower motor order ['id11', 'id22', 'id23', 'id24', 'id25']; send_action() writes them to Goal_Position directly.",
+  "elapsed_s": 1181.3,
+  "openmani_meta": "/home/vcl/Desktop/minjun/vla/data/lerobot_v3_d9_0912/openmani_meta.json",
+  "verification": {
+    "passed": true,
+    "checks": {
+      "codebase_version": "v3.0",
+      "num_episodes": 242,
+      "num_frames": 54686,
+      "len_dataset": 54686,
+      "fps": 10,
+      "sample": {
+        "observation.images.camera1": {
+          "shape": [
+            3,
+            240,
+            320
+          ],
+          "dtype": "torch.float32"
+        },
+        "observation.images.camera2": {
+          "shape": [
+            3,
+            240,
+            320
+          ],
+          "dtype": "torch.float32"
+        },
+        "observation.images.camera3": {
+          "shape": [
+            3,
+            240,
+            320
+          ],
+          "dtype": "torch.float32"
+        },
+        "observation.state": {
+          "shape": [
+            5
+          ],
+          "dtype": "torch.float32"
+        },
+        "action": {
+          "shape": [
+            5
+          ],
+          "dtype": "torch.float32"
+        },
+        "task": "place the small tape on the left"
+      },
+      "stats_json_exists": true,
+      "stats_keys": [
+        "action",
+        "episode_index",
+        "frame_index",
+        "index",
+        "observation.images.camera1",
+        "observation.images.camera2",
+        "observation.images.camera3",
+        "observation.state",
+        "task_index",
+        "timestamp"
+      ],
+      "stats_observation.state_dim": 5,
+      "stats_action_dim": 5,
+      "action_vs_state": {
+        "parquet_files": 1,
+        "rows_compared": 54686,
+        "mean_abs_action_minus_state": 10.139209304026625,
+        "per_channel_mean_abs": [
+          7.150257835643492,
+          7.265534140364993,
+          7.740555169513221,
+          3.666514281534579,
+          24.873185093076838
+        ],
+        "identical_frame_frac": 0.03298833339428739
+      },
+      "raw_joint_invariants": {
+        "parquet_files": 1,
+        "rows_checked": 54686,
+        "episodes_checked": 242,
+        "value_min": 854.0,
+        "value_max": 3025.0,
+        "n_non_integer_values": 0,
+        "tick_range": [
+          0,
+          4095
+        ],
+        "n_out_of_range_values": 0,
+        "n_pairs_checked": 54444,
+        "n_violations_action_eq_next_state": 0,
+        "n_violations_hold_last": 0,
+        "worst_abs_action_minus_next_state": 0.0
+      }
+    },
+    "problems": []
+  }
+}

@@ -1,0 +1,548 @@
+{
+    "dataset": {
+        "repo_id": "local/openmani_ext_C_F_c5",
+        "repo_type": "dataset",
+        "root": "data/lerobot_v3_d9_0912",
+        "episodes": [
+            79,
+            77,
+            73,
+            75,
+            76,
+            74,
+            72,
+            80,
+            78,
+            56,
+            54,
+            57,
+            62,
+            60,
+            55,
+            58,
+            59,
+            61,
+            65,
+            63,
+            66,
+            71,
+            69,
+            68,
+            70,
+            67,
+            64,
+            210,
+            208,
+            213,
+            126,
+            214,
+            130,
+            211,
+            133,
+            129,
+            206,
+            209,
+            132,
+            131,
+            127,
+            134,
+            212,
+            207,
+            128,
+            189,
+            196,
+            194,
+            192,
+            112,
+            114,
+            193,
+            116,
+            190,
+            109,
+            195,
+            111,
+            113,
+            115,
+            188,
+            108,
+            191,
+            110,
+            124,
+            117,
+            205,
+            119,
+            197,
+            199,
+            123,
+            120,
+            122,
+            200,
+            202,
+            201,
+            125,
+            121,
+            118,
+            203,
+            204,
+            198,
+            159,
+            239,
+            160,
+            154,
+            158,
+            233,
+            240,
+            241,
+            153,
+            236,
+            238,
+            155,
+            157,
+            156,
+            234,
+            235,
+            237,
+            142,
+            140,
+            136,
+            135,
+            223,
+            220,
+            217,
+            139,
+            141,
+            215,
+            216,
+            219,
+            138,
+            222,
+            221,
+            143,
+            218,
+            137,
+            231,
+            232,
+            152,
+            227,
+            228,
+            224,
+            151,
+            146,
+            149,
+            229,
+            145,
+            148,
+            226,
+            144,
+            147,
+            150,
+            225,
+            230,
+            106,
+            107,
+            182,
+            103,
+            104,
+            185,
+            186,
+            183,
+            105,
+            184,
+            181,
+            179,
+            102,
+            180,
+            187,
+            99,
+            101,
+            100,
+            86,
+            169,
+            85,
+            88,
+            166,
+            83,
+            161,
+            82,
+            168,
+            89,
+            165,
+            162,
+            81,
+            164,
+            163,
+            87,
+            167,
+            84,
+            94,
+            178,
+            176,
+            171,
+            173,
+            177,
+            92,
+            93,
+            96,
+            91,
+            170,
+            175,
+            97,
+            98,
+            90,
+            95,
+            174,
+            172,
+            48,
+            50,
+            53,
+            49,
+            52,
+            46,
+            51,
+            47,
+            45,
+            34,
+            28,
+            31,
+            35,
+            33,
+            32,
+            30,
+            27,
+            29,
+            44,
+            41,
+            38,
+            39,
+            36,
+            43,
+            37,
+            40,
+            42,
+            25,
+            26,
+            21,
+            24,
+            19,
+            20,
+            22,
+            18,
+            23,
+            0,
+            3,
+            2,
+            1,
+            6,
+            7,
+            8,
+            5,
+            4,
+            10,
+            12,
+            11,
+            13,
+            9,
+            14,
+            16,
+            17,
+            15
+        ],
+        "exclude_episodes": null,
+        "image_transforms": {
+            "enable": false,
+            "max_num_transforms": 3,
+            "random_order": false,
+            "tfs": {
+                "brightness": {
+                    "weight": 1.0,
+                    "type": "ColorJitter",
+                    "kwargs": {
+                        "brightness": [
+                            0.8,
+                            1.2
+                        ]
+                    }
+                },
+                "contrast": {
+                    "weight": 1.0,
+                    "type": "ColorJitter",
+                    "kwargs": {
+                        "contrast": [
+                            0.8,
+                            1.2
+                        ]
+                    }
+                },
+                "saturation": {
+                    "weight": 1.0,
+                    "type": "ColorJitter",
+                    "kwargs": {
+                        "saturation": [
+                            0.5,
+                            1.5
+                        ]
+                    }
+                },
+                "hue": {
+                    "weight": 1.0,
+                    "type": "ColorJitter",
+                    "kwargs": {
+                        "hue": [
+                            -0.05,
+                            0.05
+                        ]
+                    }
+                },
+                "sharpness": {
+                    "weight": 1.0,
+                    "type": "SharpnessJitter",
+                    "kwargs": {
+                        "sharpness": [
+                            0.5,
+                            1.5
+                        ]
+                    }
+                },
+                "affine": {
+                    "weight": 1.0,
+                    "type": "RandomAffine",
+                    "kwargs": {
+                        "degrees": [
+                            -5.0,
+                            5.0
+                        ],
+                        "translate": [
+                            0.05,
+                            0.05
+                        ]
+                    }
+                }
+            }
+        },
+        "revision": null,
+        "use_imagenet_stats": true,
+        "video_backend": "pyav",
+        "return_uint8": false,
+        "depth_output_unit": "mm",
+        "streaming": false,
+        "eval_split": 0.05
+    },
+    "env": null,
+    "policy": {
+        "type": "smolvla",
+        "n_obs_steps": 1,
+        "input_features": {
+            "observation.state": {
+                "type": "STATE",
+                "shape": [
+                    6
+                ]
+            },
+            "observation.images.camera1": {
+                "type": "VISUAL",
+                "shape": [
+                    3,
+                    256,
+                    256
+                ]
+            },
+            "observation.images.camera2": {
+                "type": "VISUAL",
+                "shape": [
+                    3,
+                    256,
+                    256
+                ]
+            },
+            "observation.images.camera3": {
+                "type": "VISUAL",
+                "shape": [
+                    3,
+                    256,
+                    256
+                ]
+            }
+        },
+        "output_features": {
+            "action": {
+                "type": "ACTION",
+                "shape": [
+                    5
+                ]
+            }
+        },
+        "device": "cuda",
+        "use_amp": false,
+        "use_peft": false,
+        "push_to_hub": false,
+        "repo_id": null,
+        "private": null,
+        "tags": null,
+        "license": null,
+        "pretrained_path": "runs/d10_new/checkpoints/004750/pretrained_model",
+        "pretrained_revision": null,
+        "chunk_size": 16,
+        "n_action_steps": 8,
+        "normalization_mapping": {
+            "VISUAL": "IDENTITY",
+            "STATE": "MEAN_STD",
+            "ACTION": "MEAN_STD"
+        },
+        "max_state_dim": 32,
+        "max_action_dim": 32,
+        "resize_imgs_with_padding": [
+            512,
+            512
+        ],
+        "empty_cameras": 0,
+        "adapt_to_pi_aloha": false,
+        "use_delta_joint_actions_aloha": false,
+        "tokenizer_max_length": 48,
+        "num_steps": 5,
+        "use_cache": true,
+        "freeze_vision_encoder": false,
+        "train_expert_only": false,
+        "train_state_proj": true,
+        "optimizer_lr": 1e-05,
+        "optimizer_betas": [
+            0.9,
+            0.95
+        ],
+        "optimizer_eps": 1e-08,
+        "optimizer_weight_decay": 1e-10,
+        "optimizer_grad_clip_norm": 10.0,
+        "scheduler_warmup_steps": 1000,
+        "scheduler_decay_steps": 30000,
+        "scheduler_decay_lr": 2.5e-07,
+        "vlm_model_name": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+        "load_vlm_weights": true,
+        "add_image_special_tokens": false,
+        "attention_mode": "cross_attn",
+        "prefix_length": 0,
+        "pad_language_to": "max_length",
+        "num_expert_layers": 0,
+        "num_vlm_layers": 16,
+        "self_attn_every_n_layers": 2,
+        "expert_width_multiplier": 0.75,
+        "min_period": 0.004,
+        "max_period": 4.0,
+        "rtc_config": null,
+        "compile_model": false,
+        "compile_mode": "max-autotune"
+    },
+    "reward_model": null,
+    "output_dir": "runs/ext_C_F_c5",
+    "job_name": "ext_C_F_c5",
+    "resume": false,
+    "seed": 1000,
+    "cudnn_deterministic": false,
+    "num_workers": 3,
+    "batch_size": 32,
+    "prefetch_factor": 4,
+    "persistent_workers": true,
+    "dataloader_multiprocessing_context": "spawn",
+    "steps": 6000,
+    "env_eval_freq": 20000,
+    "log_freq": 250,
+    "eval_steps": 1000,
+    "max_eval_samples": 0,
+    "tolerance_s": 0.0001,
+    "save_checkpoint": true,
+    "save_freq": 1000,
+    "checkpoint_format": "safetensors",
+    "use_policy_training_preset": true,
+    "optimizer": {
+        "type": "adamw",
+        "lr": 1e-05,
+        "weight_decay": 1e-10,
+        "grad_clip_norm": 10.0,
+        "betas": [
+            0.9,
+            0.95
+        ],
+        "eps": 1e-08
+    },
+    "scheduler": {
+        "type": "cosine_decay_with_warmup",
+        "num_warmup_steps": 1000,
+        "num_decay_steps": 30000,
+        "peak_lr": 1e-05,
+        "decay_lr": 2.5e-07
+    },
+    "parallelism": {
+        "dp_replicate": 1,
+        "dp_shard": 1,
+        "context_parallel": {
+            "ring_degree": 1,
+            "ulysses_degree": 1
+        },
+        "cfg_parallel": 1
+    },
+    "accelerator": {
+        "mixed_precision": "no",
+        "gradient_accumulation": {
+            "steps": 1
+        },
+        "fsdp": {
+            "reshard_after_forward": true,
+            "wrap_modules": null,
+            "min_num_params": null,
+            "cpu_offload": false,
+            "ignored_modules": null
+        },
+        "ddp": {
+            "find_unused_parameters": true,
+            "gradient_as_bucket_view": false,
+            "static_graph": false
+        },
+        "compile": {
+            "enabled": false,
+            "backend": "inductor",
+            "mode": null,
+            "regional": true
+        },
+        "activation_checkpointing": {
+            "mode": "none"
+        }
+    },
+    "eval": {
+        "n_episodes": 50,
+        "batch_size": 19,
+        "use_async_envs": true,
+        "recording": false,
+        "recording_repo_id": null,
+        "recording_private": false
+    },
+    "ema": {
+        "enable": false,
+        "decay": null,
+        "update_after_step": 0,
+        "inv_gamma": 1.0,
+        "power": 0.75,
+        "min_decay": 0.0,
+        "max_decay": 0.9999,
+        "use_for_eval": true
+    },
+    "wandb": {
+        "enable": false,
+        "disable_artifact": false,
+        "project": "lerobot",
+        "entity": null,
+        "notes": null,
+        "run_id": null,
+        "mode": null,
+        "add_tags": true
+    },
+    "peft": null,
+    "job": {
+        "target": null,
+        "image": "huggingface/lerobot-gpu:latest",
+        "timeout": "2d",
+        "detach": false,
+        "tags": []
+    },
+    "save_checkpoint_to_hub": false,
+    "sample_weighting": null,
+    "rename_map": {},
+    "checkpoint_path": null
+}

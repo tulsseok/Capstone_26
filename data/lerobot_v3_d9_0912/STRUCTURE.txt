@@ -1,0 +1,13 @@
+# Full file list of data/lerobot_v3_d9_0912 (size in bytes). Only meta/ and sidecars are included in the repo; data/ videos/ images/ are not included
+66294	./conversion_report.json
+2417431	./data/chunk-000/file-000.parquet
+1151774	./meta/episodes/chunk-000/file-000.parquet
+4358	./meta/info.json
+15235	./meta/stats.json
+2442	./meta/tasks.parquet
+797	./openmani_meta.json
+209680213	./videos/observation.images.camera1/chunk-000/file-000.mp4
+4465732	./videos/observation.images.camera1/chunk-000/file-001.mp4
+186017553	./videos/observation.images.camera2/chunk-000/file-000.mp4
+208832304	./videos/observation.images.camera3/chunk-000/file-000.mp4
+41752775	./videos/observation.images.camera3/chunk-000/file-001.mp4

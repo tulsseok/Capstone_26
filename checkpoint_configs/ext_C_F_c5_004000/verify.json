@@ -1,0 +1,240 @@
+{
+  "run": "ext_C_F_c5",
+  "log": "runs/ext_C_F_c5.log",
+  "passed": true,
+  "checks": [
+    {
+      "name": "eval lines present",
+      "ok": true,
+      "detail": "6 evals"
+    },
+    {
+      "name": "eval count as configured",
+      "ok": true,
+      "detail": "6 of 6"
+    },
+    {
+      "name": "no python traceback",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no CUDA OOM",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "not OOM-killed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no NaN in the log",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ext attached",
+      "ok": true,
+      "detail": "[ext] on: modules=coda main_ae=freeze new_lr=0.0001 coda_steps=5+5 attn=sdpa compile=layers camera_hw=240x320,240x320,240x320 | new params {'coda': 99849312} | "
+    },
+    {
+      "name": "ext modules as configured",
+      "ok": true,
+      "detail": "coda vs coda"
+    },
+    {
+      "name": "ext main_ae as configured",
+      "ok": true,
+      "detail": "freeze vs freeze"
+    },
+    {
+      "name": "ext coda steps as configured",
+      "ok": true,
+      "detail": "coda_steps=5+5"
+    },
+    {
+      "name": "ext attn/compile as configured",
+      "ok": true,
+      "detail": "attn=sdpa compile=layers"
+    },
+    {
+      "name": "ext fast options applied",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ext param groups logged",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ext loss lines present",
+      "ok": true,
+      "detail": "24 lines"
+    },
+    {
+      "name": "ext corr loss iff Coda",
+      "ok": true,
+      "detail": "[ext] losses main=0.0463 corr=0.0105 "
+    },
+    {
+      "name": "ext align loss iff ROCKET",
+      "ok": true,
+      "detail": "[ext] losses main=0.0463 corr=0.0105 "
+    },
+    {
+      "name": "ext rest-group LR as configured",
+      "ok": true,
+      "detail": "1e-05 vs 1e-05"
+    },
+    {
+      "name": "start checkpoint as configured",
+      "ok": true,
+      "detail": "runs/d10_new/checkpoints/004750/pretrained_model"
+    },
+    {
+      "name": "scheduler_decay_lr as configured",
+      "ok": true,
+      "detail": "2.5e-07 vs 2.5e-07"
+    },
+    {
+      "name": "num_steps as configured",
+      "ok": true,
+      "detail": "5 vs 5"
+    },
+    {
+      "name": "eval split hook ran",
+      "ok": true,
+      "detail": "224 train / 18 eval over 18/18 tasks"
+    },
+    {
+      "name": "eval split mode as configured",
+      "ok": true,
+      "detail": "random vs random"
+    },
+    {
+      "name": "held-out indices logged",
+      "ok": true,
+      "detail": "18 episodes"
+    },
+    {
+      "name": "checkpoints on disk",
+      "ok": true,
+      "detail": "2: [4000, 6000]"
+    },
+    {
+      "name": "eval-minimum checkpoint kept",
+      "ok": true,
+      "detail": "min at step 4000"
+    },
+    {
+      "name": "eval-minimum checkpoint loadable",
+      "ok": true,
+      "detail": "runs/ext_C_F_c5/checkpoints/004000/pretrained_model"
+    }
+  ],
+  "eval_curve": [
+    [
+      1000,
+      0.0953
+    ],
+    [
+      2000,
+      0.0981
+    ],
+    [
+      3000,
+      0.0972
+    ],
+    [
+      4000,
+      0.0944
+    ],
+    [
+      5000,
+      0.0963
+    ],
+    [
+      6000,
+      0.0975
+    ]
+  ],
+  "eval_min": {
+    "step": 4000,
+    "loss": 0.0944
+  },
+  "checkpoints": [
+    4000,
+    6000
+  ],
+  "manifest": {
+    "run": "ext_C_F_c5",
+    "variant_meaning": "ext C/F: pvi=0 coda=1 rocket=0 main_ae=freeze rest_lr=1e-5 start=runs/d10_new/checkpoints/004750/pretrained_model coda=5+5 (recipe d10_new, no noise, no loss weights)",
+    "gpu": "1",
+    "started_at": "2026-10-12 21:02:53",
+    "dataset_root": "data/lerobot_v3_d9_0912",
+    "dataset_episodes": 242,
+    "dataset_frames": 54686,
+    "dataset_tasks": 18,
+    "action_dim": 5,
+    "base_policy": "runs/d10_new/checkpoints/004750/pretrained_model",
+    "optimizer_lr": 1e-05,
+    "is_sequential_finetune": true,
+    "steps": 6000,
+    "batch_size": 32,
+    "num_workers": 3,
+    "epochs": 3.511,
+    "chunk_size": 16,
+    "n_action_steps": 8,
+    "seed": 1000,
+    "num_steps": 5,
+    "scheduler_decay_lr": 2.5e-07,
+    "spec": {
+      "mods": "C",
+      "start": "F",
+      "rl": null,
+      "ra": null,
+      "cs": 5
+    },
+    "expected_evals": 6,
+    "eval_split": 0.05,
+    "eval_split_mode": "random",
+    "eval_split_seed": 0,
+    "flags": "--eval-episode-indices 4,15,23,29,42,45,61,64,78,84,100,110,128,137,172,198,230,237 --policy.optimizer_lr=1e-5 --policy.scheduler_decay_lr=2.5e-7 --ext-main-ae freeze --ext-main-ae-lr 1e-5 --ext-new-lr 1e-4 --ext-attn sdpa --ext-compile layers --ext-coda --ext-coda-steps 5 --policy.num_steps=5 ",
+    "camera_dropout_p": 0.0,
+    "state_noise_p": 0.0,
+    "state_noise_sigma": 0.0,
+    "gripper_goal_relabel": false,
+    "smooth_loss_weight": 0.0,
+    "ext": {
+      "pvi": false,
+      "coda": true,
+      "rocket": false,
+      "main_ae": "freeze",
+      "main_ae_lr": 1e-05,
+      "new_lr": 0.0001,
+      "attn_impl": "sdpa",
+      "compile_mode": "layers",
+      "coda_num_steps": 5,
+      "main_num_steps": 5
+    },
+    "code_sha256_12": {
+      "train_smolvla_openmani.py": "ea4491d0d3f9",
+      "train_ext.sh": "25e47d272cea",
+      "verify_run.py": "d4f59efd30fc",
+      "prune_watchdog.py": "68d6c62f5319",
+      "smolvla_ext/__init__.py": "0a250c8d4abd",
+      "smolvla_ext/attach.py": "da2eac985720",
+      "smolvla_ext/coda.py": "36970cf7cdc9",
+      "smolvla_ext/config.py": "68861352c4b5",
+      "smolvla_ext/fast.py": "498ccf13cce4",
+      "smolvla_ext/flow.py": "9d62f3a581cd",
+      "smolvla_ext/pvi.py": "c5c8f7976288",
+      "smolvla_ext/quantize_targets.py": "8dfbb27dbd40",
+      "smolvla_ext/rocket.py": "e2bb085823aa",
+      "smolvla_ext/vlm_forward.py": "6e32cf32579e"
+    },
+    "git_lerobot": "9e14584"
+  }
+}

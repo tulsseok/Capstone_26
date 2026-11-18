@@ -1,0 +1,226 @@
+{
+  "run": "d10_new",
+  "log": "runs/d10_new.log",
+  "passed": true,
+  "checks": [
+    {
+      "name": "eval lines present",
+      "ok": true,
+      "detail": "24 evals"
+    },
+    {
+      "name": "eval count as configured",
+      "ok": true,
+      "detail": "24 of 24"
+    },
+    {
+      "name": "no python traceback",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no CUDA OOM",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "not OOM-killed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no NaN in the log",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "eval split hook ran",
+      "ok": true,
+      "detail": "224 train / 18 eval over 18/18 tasks"
+    },
+    {
+      "name": "eval split mode as configured",
+      "ok": true,
+      "detail": "random vs random"
+    },
+    {
+      "name": "eval episode count as configured",
+      "ok": true,
+      "detail": "18 vs 18"
+    },
+    {
+      "name": "held-out indices logged",
+      "ok": true,
+      "detail": "18 episodes"
+    },
+    {
+      "name": "checkpoints on disk",
+      "ok": true,
+      "detail": "2: [4750, 6000]"
+    },
+    {
+      "name": "eval-minimum checkpoint kept",
+      "ok": true,
+      "detail": "min at step 4750"
+    },
+    {
+      "name": "eval-minimum checkpoint loadable",
+      "ok": true,
+      "detail": "runs/d10_new/checkpoints/004750/pretrained_model"
+    }
+  ],
+  "eval_curve": [
+    [
+      250,
+      0.2779
+    ],
+    [
+      500,
+      0.1991
+    ],
+    [
+      750,
+      0.1656
+    ],
+    [
+      1000,
+      0.1561
+    ],
+    [
+      1250,
+      0.1368
+    ],
+    [
+      1500,
+      0.1316
+    ],
+    [
+      1750,
+      0.1297
+    ],
+    [
+      2000,
+      0.1251
+    ],
+    [
+      2250,
+      0.1175
+    ],
+    [
+      2500,
+      0.111
+    ],
+    [
+      2750,
+      0.1085
+    ],
+    [
+      3000,
+      0.1019
+    ],
+    [
+      3250,
+      0.1023
+    ],
+    [
+      3500,
+      0.1021
+    ],
+    [
+      3750,
+      0.1023
+    ],
+    [
+      4000,
+      0.0975
+    ],
+    [
+      4250,
+      0.097
+    ],
+    [
+      4500,
+      0.0982
+    ],
+    [
+      4750,
+      0.0934
+    ],
+    [
+      5000,
+      0.094
+    ],
+    [
+      5250,
+      0.0953
+    ],
+    [
+      5500,
+      0.0952
+    ],
+    [
+      5750,
+      0.0944
+    ],
+    [
+      6000,
+      0.0958
+    ]
+  ],
+  "eval_min": {
+    "step": 4750,
+    "loss": 0.0934
+  },
+  "checkpoints": [
+    4750,
+    6000
+  ],
+  "manifest": {
+    "run": "d10_new",
+    "variant": "new",
+    "variant_meaning": "d9 ONLY (242 ep, new camera rig, unified start/end), no augmentation",
+    "gpu": 0,
+    "started_at": "2026-09-13 11:50:04",
+    "dataset_root": "data/lerobot_v3_d9_0912",
+    "dataset_episodes": 242,
+    "dataset_frames": 54686,
+    "dataset_tasks": 18,
+    "action_dim": 5,
+    "action_names": [
+      "id11",
+      "id22",
+      "id23",
+      "id24",
+      "id25"
+    ],
+    "done_flag_lead": null,
+    "smooth_loss_max_channel": 5,
+    "source_boundary": 0,
+    "old_episode_weight": 1.0,
+    "old_episode_seed": 0,
+    "base_policy": "lerobot/smolvla_base",
+    "steps": 6000,
+    "batch_size": 32,
+    "num_workers": 3,
+    "epochs": 3.511,
+    "chunk_size": 16,
+    "n_action_steps": 8,
+    "seed": 1000,
+    "expected_evals": 24,
+    "eval_split": 0.05,
+    "eval_split_mode": "random",
+    "eval_split_seed": 0,
+    "eval_episodes": 18,
+    "camera_dropout_p": 0.0,
+    "camera_dropout_fill": null,
+    "smooth_loss_weight": 0.0,
+    "smooth_loss_order": 0,
+    "code_sha256_12": {
+      "train_smolvla_openmani.py": "882b62b178d0",
+      "train_d10.sh": "1d14de528909",
+      "verify_run.py": "8812274d8a19",
+      "prune_watchdog.py": "68d6c62f5319"
+    },
+    "git_lerobot": "9e14584"
+  }
+}

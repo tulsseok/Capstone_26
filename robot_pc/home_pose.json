@@ -1,0 +1,13 @@
+{
+  "measured_at": "20260906_153334",
+  "home": {
+    "11": 2060,
+    "22": 2099,
+    "23": 1825,
+    "24": 3000,
+    "25": 2634
+  },
+  "gripper_open_sample": 1006,
+  "gripper_open_target": 1000,
+  "gripper_close_target": 2700
+}

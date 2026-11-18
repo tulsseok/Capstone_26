@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# 대용량: 가중치·영상·프레임·학습 산출물은 올리지 않는다
+*.safetensors
+!checkpoint_configs/**/*processor.safetensors
+runs/
+data/lerobot_v3_*/data/
+data/lerobot_v3_*/videos/
+data/lerobot_v3_*/images/
+results/

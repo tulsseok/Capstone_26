@@ -1,0 +1,7 @@
+# 로봇 PC (Linux, Python 3.10) — 실기 조종·녹화
+numpy>=1.22
+opencv-python>=4.8.0
+pygame>=2.5.0
+pynput>=1.7.6
+dynamixel-sdk>=3.7.0
+pygrabber>=0.2; sys_platform == "win32"

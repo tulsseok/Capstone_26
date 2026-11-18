@@ -1,0 +1,12 @@
+# Full file list of runs/ext_C_F_c5/checkpoints/004000/pretrained_model (bytes). model.safetensors and tokenizer/ are not included
+2520	./config.json
+1112915336	./model.safetensors
+660	./policy_postprocessor.json
+8528	./policy_postprocessor_step_0_unnormalizer_processor.safetensors
+1932	./policy_preprocessor.json
+8544	./policy_preprocessor_step_5_normalizer_processor.safetensors
+670	./smolvla_ext.json
+403	./tokenizer/chat_template.jinja
+997	./tokenizer/tokenizer_config.json
+3548738	./tokenizer/tokenizer.json
+12470	./train_config.json
